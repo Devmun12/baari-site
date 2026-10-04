@@ -1,0 +1,14 @@
+{
+  "name": "baari-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Baari landing page with the \"Set up the week\" demo: Vercel functions, Gemini and Supabase.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "node dev/server.mjs",
+    "test": "node dev/e2e.mjs"
+  }
+}
