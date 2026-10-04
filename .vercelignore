@@ -1,0 +1,5 @@
+# Not part of the live site. Kept in the repo for local testing and setup.
+dev/
+supabase/
+README.md
+.env.example
